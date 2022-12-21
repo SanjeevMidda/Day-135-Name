@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+    font-family: Helvetica, sans-serif;
+    font-weight: 300;
+}
+
+body{
+    height: 100vh;
+}
+
+h1{
+    text-align: end;
+    margin-right: 10px;
+}
+
+.blockOne{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+.blockTwo{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+.blockThree{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+.blockFour{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+.blockFive{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+.section{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.circle{
+    width: 100px;
+    height: 100px;
+    background-color: orangered;
+    border-radius: 50%;
+    margin-right: 110px;
+}
